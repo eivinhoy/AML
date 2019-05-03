@@ -1,4 +1,4 @@
-# AML-COURSE
+# AML - Algorithmic Machine Learning
 This repository contains Jupyter Notebooks for the Algorithmic Machine Learning Course at Eurecom. This is a fork of the original repository with @https://github.com/yohannjs and my solutions to the different problems. 
 
 ## Objectives of the course
