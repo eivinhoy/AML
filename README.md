@@ -11,7 +11,7 @@ The goal of this course is mainly to offer data science projects to students to 
 - Anomaly detection 
 
 ## Technical notes
-All tasks where done on the EURECOM cloud computing platform, on a cluster managed by [Zoe](http://zoe-analytics.eu/), which is a container-based analytics-as-a-service system we have built. 
+All tasks where done on the EURECOM cloud computing platform, on a cluster managed by [Zoe](http://zoe-analytics.eu/), which is a container-based analytics-as-a-service built by the Data Science department at EURECOM. 
 
 ## Sources and acknowledgments
 Some of the Notebooks used in the course are based on use cases illustrated in the book [Advanced Analytics with Spark](http://shop.oreilly.com/product/0636920035091.do), by Sandy Ryza, Uri Laserson, Sean Owen & Josh Wills.
